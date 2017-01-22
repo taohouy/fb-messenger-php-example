@@ -1,1 +1,5 @@
- fb-messenger-php-example/config_sample.php 
+<?php
+return [
+    'verify_token' => '',
+    'token' => ''
+];
